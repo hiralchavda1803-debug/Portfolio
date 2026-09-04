@@ -1,0 +1,190 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.navbar .nav-link {
+    color: white !important;
+    position: relative;
+    transition: 0.3s ease;
+}
+
+
+.navbar .nav-link:hover {
+    color: #0d6efd !important;
+}
+
+.navbar .nav-link::after {
+    position: absolute;
+    bottom: 2px;
+    width: 0;
+    height: 2px;
+    background-color: #0d6efd;
+    transition: width 0.3s ease;
+}
+
+
+.navbar .nav-link:hover::after {
+    width: 100%;
+}
+
+.web-btn {
+    background-color: #002653;
+    color: #0d6efd;
+    border: 1px solid #002653;
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.web-btn:hover {
+    background-color: #0d6efd;
+    color: white;
+    border-color: #0d6efd;
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(13, 110, 253, 0.4);
+}
+
+.skill-btn {
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 18px 25px;
+    border: none;
+    border-radius: 8px;
+}
+
+.html-btn,
+.html-btn:hover {
+    background-color: #198754;
+    color: white;
+
+}
+
+.css-btn,
+.css-btn:hover {
+    background-color: #0d6efd;
+    color: white;
+}
+
+.js-btn,
+.js-btn:hover {
+    background-color: #ffc107;
+    color: white;
+}
+
+.ts-btn,
+.ts-btn:hover {
+    background-color: #dc3545;
+    color: white;
+}
+
+.react-btn,
+.react-btn:hover {
+    background-color: #0dcaf0;
+    color: white;
+}
+
+
+.skill-btn:hover {
+
+    box-shadow: 0 0 18px rgba(255, 255, 255, 0.35);
+    color: black;
+}
+
+
+.home {
+    width: 500px;
+    margin-left: 100px;
+
+}
+
+.text {
+    padding-left: 80px;
+}
+
+
+.tech {
+    gap: 50px !important;
+    padding-top: 50px;
+}
+
+.tech .skill-card {
+    transition: all 0.3s ease;
+    cursor: pointer;
+}
+
+.tech .skill-card:hover {
+    transform: translateY(-8px);
+    border-color: #0d6efd !important;
+    box-shadow: 0 8px 25px rgba(13, 110, 253, 0.35) !important;
+}
+
+.certificate-card {
+    transition: all 0.4s ease;
+    cursor: pointer;
+}
+
+.certificate-card:hover {
+    transform: translateY(-10px);
+    border-color: #0d6efd !important;
+    box-shadow: 0 15px 35px rgba(13, 110, 253, 0.35) !important;
+}
+
+.certificate-card img {
+    transition: transform 0.4s ease;
+}
+
+.certificate-card:hover img {
+    transform: scale(1.02);
+}
+
+
+.project-card {
+    transition: all 0.3s ease;
+}
+
+.project-card:hover {
+    transform: translateY(-10px);
+    border-color: #0d6efd !important;
+    box-shadow: 0 15px 35px rgba(13, 110, 253, 0.4) !important;
+}
+
+.project-title {
+    transition: 0.3s ease;
+}
+
+.project-title:hover {
+    color: #0d6efd;
+    cursor: pointer;
+}
+
+.project-card img {
+    transition: 0.4s ease;
+}
+
+.project-card:hover img {
+    transform: scale(1.03);
+}
+
+.form-control {
+    transition: 0.3s ease;
+}
+
+.form-control:hover {
+    border-color: #0d6efd;
+}
+
+.form-control:focus {
+    border-color: #0d6efd;
+    box-shadow: 0 0 0 0.2rem rgba(13, 110, 253, 0.25);
+}
+
+.btn-primary {
+    transition: 0.3s ease;
+}
+
+.btn-primary:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 20px rgba(13, 110, 253, 0.4);
+}
