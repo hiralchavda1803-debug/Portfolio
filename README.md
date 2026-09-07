@@ -1,17 +1,85 @@
-# React + Vite
+# CodeCraft - Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built using React.js and Bootstrap.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+CodeCraft is my personal portfolio website where I showcase my skills, certificates, and projects as a web developer.
 
-## React Compiler
+## Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- HTML
+- CSS
+- JavaScript
+- React.js
+- Bootstrap
+- Git
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# Portfolio" 
+- Responsive Navigation Bar
+- Home Section
+- About Me Section
+- Skills Section
+- Certificates Section
+- Projects Section
+- Contact Section
+- Responsive Design
+- Hover Effects
+- Modern Dark UI
+
+## Skills
+
+- HTML - 95%
+- CSS - 90%
+- JavaScript - 90%
+- Tailwind CSS - 80%
+- Git - 85%
+- React.js - 80%
+
+## Certificates
+
+### Full Stack Development with MERN
+Provided by thingQbator & NASSCOM Foundation.
+
+### Foundations of IT Infrastructure
+Provided by Simplilearn SkillUp.
+
+## Projects
+
+### 1. FoodMood - Food Ordering Website
+A modern food ordering website with an interactive menu and smooth user experience.
+
+**Technologies:** HTML, CSS, JavaScript
+
+### 2. Coffee Shop Website
+A stylish coffee shop website designed to showcase coffee, menu items, and café services.
+
+**Technologies:** HTML, CSS, Bootstrap
+
+### 3. Architecture Website
+A modern architecture website showcasing creative designs, projects, and innovative spaces.
+
+**Technologies:** HTML, CSS, JavaScript
+
+### 4. Product CRUD Application
+A responsive product management website designed to add, edit, delete and search products.
+
+**Technologies:** HTML, CSS, JavaScript
+
+### 5. Architecture Website
+A responsive architecture website showcasing creative designs and innovative spaces.
+
+**Technologies:** HTML, CSS, React
+
+### 6. Aashirvaad Website
+A responsive food brand website designed to showcase products and provide a smooth user experience.
+
+**Technologies:** HTML, CSS, JavaScript
+
+## Installation
+
+Clone the repository:
+
+```bash
+git clone <your-github-repository-url>
