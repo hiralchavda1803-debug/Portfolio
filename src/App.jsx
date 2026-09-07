@@ -70,7 +70,7 @@ function App() {
 
             <div className="col-12 col-lg-6 text-center mt-4 mt-lg-0">
               <div className="d-flex justify-content-center align-items-center">
-                <img src={img1} className="img-fluid rounded-circle w-75" alt=""/>
+                <img src={img1} className="img-fluid rounded-circle w-75" alt="" />
               </div>
             </div>
 
@@ -310,8 +310,8 @@ function App() {
               <div className="card bg-dark text-white border border-secondary rounded-4 overflow-hidden shadow-lg w-100 project-card">
                 <img src={img9} className="card-img-top" alt="" />
                 <div className="card-body p-4 d-flex flex-column">
-                  <h3 className="fw-bold project-title">Architecture Website</h3>
-                  <p className="text-secondary fs-5">A modern architecture website showcasing creative designs, projects, and innovative spaces.</p>
+                  <h3 className="fw-bold project-title">Car Collection Website</h3>
+                  <p className="text-secondary fs-5">A responsive car collection website showcasing different cars,their details, and prices</p>
                   <div className="d-flex justify-content-between align-items-center mt-auto">
                     <span className="badge bg-primary fs-6 px-3 py-2">HTML, CSS, React</span>
                     <span className="text-secondary fs-5">2026</span>
@@ -324,8 +324,8 @@ function App() {
               <div className="card bg-dark text-white border border-secondary rounded-4 overflow-hidden shadow-lg w-100 project-card">
                 <img src={img10} className="card-img-top" alt="" />
                 <div className="card-body p-4 d-flex flex-column">
-                  <h3 className="fw-bold project-title">Aashirvaad Website</h3>
-                  <p className="text-secondary fs-5">A responsive food brand website designed to showcase products and provide a smooth user experience.</p>
+                  <h3 className="fw-bold project-title">WeatherInfo Website</h3>
+                  <p className="text-secondary fs-5">  A responsive weather website that displays weather information for different cities.</p>
                   <div className="d-flex justify-content-between align-items-center mt-auto">
                     <span className="badge bg-primary fs-6 px-3 py-2">HTML, CSS, JavaScript</span>
                     <span className="text-secondary fs-5">2026</span>

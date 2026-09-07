@@ -1,85 +1,58 @@
-# CodeCraft - Personal Portfolio
+# 🚀 CodeCraft - Personal Portfolio
 
 A modern and responsive personal portfolio website built using React.js and Bootstrap.
 
-## About
+## 👩‍💻About
 
 CodeCraft is my personal portfolio website where I showcase my skills, certificates, and projects as a web developer.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 - React.js
 - Bootstrap
-- Git
 
-## Features
+## ✨ Features
 
-- Responsive Navigation Bar
-- Home Section
-- About Me Section
-- Skills Section
-- Certificates Section
-- Projects Section
-- Contact Section
-- Responsive Design
-- Hover Effects
-- Modern Dark UI
+- 📱 Responsive Navigation Bar
+- 🏠 Home Section
+- 👩 About Me Section
+- 💻 Skills Section
+- 📜 Certificates Section
+- 🚀 Projects Section
+- 📩 Contact Section
+- ✨ Hover Effects
+- 📱 Responsive Design
 
-## Skills
+## 💻 Skills
 
-- HTML - 95%
-- CSS - 90%
-- JavaScript - 90%
-- Tailwind CSS - 80%
-- Git - 85%
-- React.js - 80%
+- 🟧 HTML - 95%
+- 🟦 CSS - 90%
+- 🟨 JavaScript - 90%
+- ⚛️ React.js - 80%
+- 🌊 Tailwind CSS - 80%
+- 🔧 Git - 85%
 
-## Certificates
 
-### Full Stack Development with MERN
-Provided by thingQbator & NASSCOM Foundation.
+## 📜 Certificates
 
-### Foundations of IT Infrastructure
-Provided by Simplilearn SkillUp.
+### 🏆Full Stack Development with MERN
 
-## Projects
+### 🏆Foundations of IT Infrastructure
 
-### 1. FoodMood - Food Ordering Website
-A modern food ordering website with an interactive menu and smooth user experience.
 
-**Technologies:** HTML, CSS, JavaScript
+## 📁Projects
 
-### 2. Coffee Shop Website
-A stylish coffee shop website designed to showcase coffee, menu items, and café services.
+### 1. 🍔FoodMood - Food Ordering Website
 
-**Technologies:** HTML, CSS, Bootstrap
+### 2. ☕Coffee Shop Website
 
-### 3. Architecture Website
-A modern architecture website showcasing creative designs, projects, and innovative spaces.
+### 3. 🏛️Architecture Website
 
-**Technologies:** HTML, CSS, JavaScript
+### 4. 📦Product CRUD Application
 
-### 4. Product CRUD Application
-A responsive product management website designed to add, edit, delete and search products.
+### 5. 🚗Car Collection Website
 
-**Technologies:** HTML, CSS, JavaScript
-
-### 5. Architecture Website
-A responsive architecture website showcasing creative designs and innovative spaces.
-
-**Technologies:** HTML, CSS, React
-
-### 6. Aashirvaad Website
-A responsive food brand website designed to showcase products and provide a smooth user experience.
-
-**Technologies:** HTML, CSS, JavaScript
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone <your-github-repository-url>
+### 6. 🌥️WeatherInfo Website
